@@ -26,7 +26,8 @@ Microsoft Power BI
 - [Wireframe](https://github.com/aditya-mmmec/Bank-Marketing-Analytics/blob/main/Wireframe.pdf)
 - [Detailed Project Report](https://github.com/aditya-mmmec/Bank-Marketing-Analytics/blob/main/DPR.pdf)
 
-
+## LinkedIn Post Link
+- [Click Here](https://www.linkedin.com/posts/aditya-gupta-94697550_github-aditya-mmmecbank-marketing-analytics-activity-6982226940078264321-b4fa?utm_source=share&utm_medium=member_desktop)
 ### Run Locally
 
 Download Microsoft Power BI Desktop on your PC and open the pbix file given below:
